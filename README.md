@@ -32,6 +32,7 @@ Note: There is a separate page for Regional IRC Drupal channels.
     #drupal-commerce for general support and development regarding the Drupal Commerce project
     #drupal-commons for developer collaboration around the distribution Drupal Commons which is aimed at powering communities; notably (will be) powering Groups.drupal.org
     #drupal-consultants for Drupal Consultants. You can find paid help here, as well as advice on best practices and general discussions surrounding the business side of Drupal. Ask questions here only if you're willing to pay for the advice.
+    #drupal-contribute for asking your contribution and ptach review queries.
     #drupal-coworking for Drupal Coworking. If you're new to coworking or are already a coworking pro, this is the place to ask, learn and share information about collaborative Drupal coworking spaces.
     #drupal-design for drupal designers. This channel is not for theme related talks, but pure design.
     #drupal-docs for the Documentation team to discuss and organize working on the drupal.org handbooks.
